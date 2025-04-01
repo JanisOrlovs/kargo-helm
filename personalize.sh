@@ -21,3 +21,6 @@ if [ ! -z "$image_name" ]; then
 fi
 
 find . -type f -name '*.bak' -exec rm -f {} +
+
+
+#test
